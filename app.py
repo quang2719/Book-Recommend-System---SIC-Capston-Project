@@ -13,7 +13,7 @@ def get_base64(bin_file):
     return base64.b64encode(data).decode()
 
 # Encode the background image
-img_base64 = get_base64("Dall-E.webp")
+img_base64 = get_base64("VN.jpg")
 
 # Add custom CSS for background image and styling
 page_bg_img = f'''
