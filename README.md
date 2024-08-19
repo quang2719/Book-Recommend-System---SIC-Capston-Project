@@ -27,7 +27,7 @@ In this project, I contributed to the following tasks:
 
 ## Demo 🎬
 
-[Video or GIF showcasing the book recommendation system in action]
+[Video](https://github.com/quang2719/Book-Recommend-System---SIC-Capston-Project/blob/main/Video%20demo/RecSys_Web_demo.mp4)
 
 ## Report 📄
 
