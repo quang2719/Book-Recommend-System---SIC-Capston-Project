@@ -1,6 +1,5 @@
 # Building a Book Recommendation System using Combined Methods 🧠📚
-
-[Image of Samsung Innovation Campus Logo]
+![Samsung]
 
 ## Project Description 🚀
 
@@ -27,13 +26,13 @@ In this project, I contributed to the following tasks:
 
 ## Demo 🎬
 
-[Video or GIF showcasing the book recommendation system in action]
+[Video](https://github.com/quang2719/Book-Recommend-System---SIC-Capston-Project/blob/main/Video%20demo/RecSys_Web_demo.mp4)
 
 ## Report 📄
 
 You can find a detailed report about the project, including methodology, experimental results, and analysis, here:
 
-[Link to Capstone Project Final Report]
+[Link to Capstone Project Final Report](https://github.com/quang2719/Book-Recommend-System---SIC-Capston-Project/blob/main/Final%20Report/B%C3%A1o%20c%C3%A1o%20capstone.pdf)
 
 ## Contact 📬
 
