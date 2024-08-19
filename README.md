@@ -1,5 +1,5 @@
 # Building a Book Recommendation System using Combined Methods 🧠📚
-![Samsung]
+![Samsung](https://github.com/quang2719/Book-Recommend-System---SIC-Capston-Project/blob/main/Logo/download.png)
 
 ## Project Description 🚀
 
@@ -13,6 +13,7 @@ This project focuses on developing an intelligent book recommendation system by 
 * Scikit-learn 🤖
 * TensorFlow 🧠
 * Keras ⚡
+* Streamlit 🚀
 
 ## My Role 🧑‍💻
 
