@@ -8,7 +8,7 @@ This project focuses on developing an intelligent book recommendation system by 
 
 **In this project, we primarily focused on data exploration, preprocessing, and visualization**. 📊 As the machine learning algorithm is relatively straightforward, utilizing a simple brute-force approach to find the most similar books, we leveraged existing libraries for this part. A significant portion of our time was dedicated to refining and enhancing the input data. 🛠️
 
-Additionally, I employed an Autoencoder model to reduce data dimensionality, which helped optimize model performance. 🚀 You can delve into file1 to learn about our data visualization and analysis techniques, while file2 showcases the Autoencoder model that enhances the efficiency of our primary model in file1. 🔍
+Additionally, I employed an Autoencoder model to reduce data dimensionality, which helped optimize model performance. 🚀 You can delve into original_model.ipynb to learn about our data visualization and analysis techniques, while optimize_model.ipynb showcases the Autoencoder model that enhances the efficiency of our primary model in original_model.ipynb. 🔍
 
 ## Technologies Used 🛠️
 
