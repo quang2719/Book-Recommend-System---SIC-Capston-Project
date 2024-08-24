@@ -2,8 +2,13 @@
 ![Samsung](https://github.com/quang2719/Book-Recommend-System---SIC-Capston-Project/blob/main/Logo/download.png)
 
 ## Project Description 🚀
-**Final capstone project after 4 months of learning about AI in Samsung Innovation Campus**<br>
-This project focuses on developing an intelligent book recommendation system by leveraging machine learning and deep learning techniques. The main goal is to provide users with personalized book recommendations based on their preferences and reading history. By combining different methods like K-Nearest Neighbors (KNN) and Autoencoders, we explore the potential to improve recommendation accuracy and personalization. 
+**Final Capstone Project after 4 Months of Learning about AI in Samsung Innovation Campus 🎓**
+
+This project focuses on developing an intelligent book recommendation system by leveraging machine learning and deep learning techniques. 📚 The main goal is to provide users with personalized book recommendations based on their preferences and reading history. By combining different methods like K-Nearest Neighbors (KNN) and Autoencoders, we explore the potential to improve recommendation accuracy and personalization. 🎯
+
+**In this project, we primarily focused on data exploration, preprocessing, and visualization**. 📊 As the machine learning algorithm is relatively straightforward, utilizing a simple brute-force approach to find the most similar books, we leveraged existing libraries for this part. A significant portion of our time was dedicated to refining and enhancing the input data. 🛠️
+
+Additionally, I employed an Autoencoder model to reduce data dimensionality, which helped optimize model performance. 🚀 You can delve into file1 to learn about our data visualization and analysis techniques, while file2 showcases the Autoencoder model that enhances the efficiency of our primary model in file1. 🔍
 
 ## Technologies Used 🛠️
 
@@ -16,14 +21,13 @@ This project focuses on developing an intelligent book recommendation system by 
 * Streamlit 🚀
 
 ## My Role 🧑‍💻
+As the team leader, I oversaw the entire project and actively contributed to the following tasks:
 
-In this project, I contributed to the following tasks:
-
-* Data Preprocessing: Cleaning and preparing the data for model consumption. 🧹
-* Data Visualization: Creating charts and visualizations to gain insights from the data. 📊
-* KNN Model Building: Implementing and training a KNN model for book recommendations. 🧩
-* Autoencoder Model Building: Designing, training, and utilizing an Autoencoder model to extract latent features of books. 🧬
-* Model Comparison: Evaluating and comparing the performance of KNN and Autoencoder models. ⚖️
+Project Management: Defined project scope, set deadlines, and ensured smooth collaboration among team members. 📅
+Data Preprocessing: Led the data cleaning and preparation process to ensure data quality and consistency. 🧹
+Data Visualization: Guided the creation of insightful charts and visualizations to aid in data understanding and decision-making. 📊
+KNN Model Building: Provided technical guidance and support in implementing and training the KNN model. 🧩
+Autoencoder Model Building: Supervised the design, training, and utilization of the Autoencoder model for feature extraction. 🧬
 
 ## Demo 🎬
 
