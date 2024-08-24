@@ -36,6 +36,8 @@ You can find a detailed report about the project, including methodology, experim
 [Link to Capstone Project Final Report](https://github.com/quang2719/Book-Recommend-System---SIC-Capston-Project/blob/main/Final%20Report/B%C3%A1o%20c%C3%A1o%20capstone.pdf)
 
 ## Contact 📬
+[![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/qq2719/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quang-nv-ptit/)
 
 If you have any questions or feedback about the project, feel free to contact me.
 
