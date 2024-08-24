@@ -2,13 +2,12 @@
 ![Samsung](https://github.com/quang2719/Book-Recommend-System---SIC-Capston-Project/blob/main/Logo/download.png)
 
 ## Project Description 🚀
-**Final Capstone Project after 4 Months of Learning about AI in Samsung Innovation Campus 🎓**
+**Final Capstone Project after 4 Months of Learning about AI in Samsung Innovation Campus 🎓**.This project focuses on developing an intelligent book recommendation system by leveraging machine learning and deep learning techniques. 
+* 📚 The goal is to provide users with personalized book recommendations based on their preferences and reading history. By combining different methods like K-Nearest Neighbors (KNN) and Autoencoders, we explore the potential to improve recommendation accuracy and personalization. 🎯
 
-This project focuses on developing an intelligent book recommendation system by leveraging machine learning and deep learning techniques. 📚 The main goal is to provide users with personalized book recommendations based on their preferences and reading history. By combining different methods like K-Nearest Neighbors (KNN) and Autoencoders, we explore the potential to improve recommendation accuracy and personalization. 🎯
+* **In this project, we primarily focused on data exploration, preprocessing, and visualization**. 📊 As the machine learning algorithm is relatively straightforward, utilizing a simple brute-force approach to find the most similar books, we leveraged existing libraries for this part. A significant portion of our time was dedicated to refining and enhancing the input data. 🛠️
 
-**In this project, we primarily focused on data exploration, preprocessing, and visualization**. 📊 As the machine learning algorithm is relatively straightforward, utilizing a simple brute-force approach to find the most similar books, we leveraged existing libraries for this part. A significant portion of our time was dedicated to refining and enhancing the input data. 🛠️
-
-Additionally, I employed an Autoencoder model to reduce data dimensionality, which helped optimize model performance. 🚀 You can delve into original_model.ipynb to learn about our data visualization and analysis techniques, while optimize_model.ipynb showcases the Autoencoder model that enhances the efficiency of our primary model in original_model.ipynb. 🔍
+* Additionally, I employed an Autoencoder model to reduce data dimensionality, which helped optimize model performance. 🚀 You can delve into original_model.ipynb to learn about our data visualization and analysis techniques, while optimize_model.ipynb showcases the Autoencoder model that enhances the efficiency of our primary model in original_model.ipynb. 🔍
 
 ## Technologies Used 🛠️
 
